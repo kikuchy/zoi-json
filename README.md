@@ -8,7 +8,7 @@
 
 ## じゅうじつさせたい
 
-[プルリクまってます](https://github.com/kikuchy/zoi-app/compare)
+[プルリクまってます](https://github.com/kikuchy/zoi-json/compare)
 
 ## やぼう
 
