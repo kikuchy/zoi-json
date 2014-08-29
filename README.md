@@ -8,8 +8,21 @@
 
 ## じゅうじつさせたい
 
-[プルリクまってます](https://github.com/kikuchy/zoi-json/compare)
+新しい画像のURLとかをJSONファイルに追加しましょう。
+
+簡単に追加するためのスクリプトを用意したのでお使いください。
+実行するとウィザードが始まります。
+
+```
+$ ./add-zoi.py
+```
+
+追加ができたら、[プルリクまってます](https://github.com/kikuchy/zoi-json/pulls)
 
 ## やぼう
 
 未出の画像を追加するためのツール用意したみある
+
+## しようれい
+
+* [zoi-app](http://github.com/kikuchy/zoi-app) … Macでぞいするためのなにか
